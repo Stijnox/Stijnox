@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Stijnox
-- 👀 I’m interested in 8051 assembler
-- 🌱 I’m currently learning Visual Studio Code 
+- 👀 I’m interested in: 
+-     ✨ Digital techniques such as circuits with 7400 ICs
+-     ✨ 8051 MCU and Assembly language
+-     ✨ Arduino
+-     ✨ Visual Basic, MS ACCESS
+-     ✨ HTML, PHP and MYSQL
+- 🌱 I’m currently working on a Extention in Visual Studio Code to manage 8051 Assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
